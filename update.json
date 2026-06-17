@@ -1,7 +1,7 @@
 {
   "versionCode": 101,
   "versionName": "v1.1.0",
-  "apkUrl": "https://github.com/250wu520/app-update-storage/blob/main/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/250wu520/应用-更新-存储/main/app-release.apk",
   "updateLog": "1.修复系统下载管理器卡死问题\n2.新增历史会话一键清空全部功能\n3.优化GitHub镜像下载兼容302跳转\n4.适配全安卓6~14存储权限",
   "forceUpdate": false
 }
